@@ -1,4 +1,6 @@
-# KiFind
+# KiFind tracks/vias plugin for KiCad
+
+![Logo](KiFind.png)
 
 This KiCad action plugin searchs for tracks or vias with selected width.<br>
 
