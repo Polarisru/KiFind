@@ -12,6 +12,6 @@ Just start the plugin and select whatever you want to find (tracks or vias). Aft
 
 ![Screenshot](screenshot.png)
 
-##License and credits
+## License and credits
 
 Plugin code is licensed under BSD 3-Clause license, see `LICENSE` for more info.
