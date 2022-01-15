@@ -5,8 +5,8 @@ import pcbnew
 import os
 import time
 
-from kifind_plugin_gui import kifind_gui
-from kifind_plugin_action import FindAll, DoSelect, __version__
+from .kifind_plugin_gui import kifind_gui
+from .kifind_plugin_action import FindAll, DoSelect, __version__
 
 class KiFindDialog(kifind_gui):
     """Class that gathers all the Gui control"""

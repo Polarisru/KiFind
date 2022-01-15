@@ -9,7 +9,7 @@ def GetUnit(value, do_mm=True):
     if do_mm:
         return pcbnew.ToMM(value)
     else:
-        return pcbnew.ToMils(value)
+        return round(pcbnew.ToMils(value))
 
 def FindAll(board=None, do_tracks=True, do_mm=True):
     if board is None:
