@@ -7,4 +7,5 @@ Just copy the whole KiFind folder into the KiCad plugins directory, then restart
 
 ## Usage
 Just start the plugin and select whatever you want to find (tracks or vias). After the execution all tracks or vias with choosen parameters will be selected.
+
 ![Screenshot](screenshot.png)
